@@ -1,0 +1,9 @@
+tensorflow
+ipykernel
+matplotlib
+jupyter
+Keras
+imgaug
+pillow
+opencv-python
+
