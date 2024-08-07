@@ -6,7 +6,7 @@ docker build -f docker/proj.dockerfile -t myproj .
 
 * How to run
 ```
-docker run -it --rm -p 8888:8888 -v $(pwd):/home/jovyan/work myproj
+docker run -it --rm -p 8888:8888 -v $(pwd):/home/proj/ myproj
 
 ```
 
